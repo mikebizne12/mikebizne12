@@ -133,6 +133,6 @@
    <img src="https://img.shields.io/badge/Ngxs-593D88?style=for-the-badge&logo=ngxs&logoColor=white" alt="ngxs"/>
 </p>
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgualampa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lucasgualampa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikebizne12&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lucasgualampa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgualampa&show_icons=true&theme=tokyonight&locale=en" alt="lucasgualampa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikebizne12&show_icons=true&theme=tokyonight&locale=en" alt="lucasgualampa" /></p>
