@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgualampa&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgualampa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikebizne12&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgualampa" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://vlriam.com/portfolio/](https://vlriam.com/portfolio/)
 
