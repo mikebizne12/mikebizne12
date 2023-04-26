@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **mikebizne@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae/Latest Resume](https://lucasgualampa.github.io/resume/)
+<!--- - 📄 Know about my experiences [Curriculum Vitae/Latest Resume](https://lucasgualampa.github.io/resume/)-->
 
-- :briefcase: <a href="#" download>Download my latest Resume</a>
+<!--- - :briefcase: <a href="#" download>Download my latest Resume</a> -->
 
 <h3 align="left">📱 Connect with me</h3>
 <p align="left">
