@@ -7,12 +7,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+FrontEnd+Developer+..&hearts;++;Love+to+learn+new+stuffs.."></a>
 </p>
 
-
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikebizne12&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgualampa" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vlriam.com/portfolio/](https://vlriam.com/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mikebizne12.github.io/my-portfolio)
 
 - 📫 How to reach me **mikebizne@gmail.com**
 
